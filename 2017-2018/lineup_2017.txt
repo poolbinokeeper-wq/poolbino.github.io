@@ -1,0 +1,438 @@
+--------------------------------------------
+Sua
+--------------------------------------------
+Evgeni Malkin    $9,500,000
+Evgeni Kuznetsov $10,000,000
+Brandon Saad     $6,250,000
+Blake Wheeler    $5,800,000
+Gustav Nyquist   $5,250,000
+Bryan Little     $5,000,000
+Gabriel Landeskog $6,000,000
+Jack Eichel       $925,000
+Brayden Point     $667,000
+Alex Debrincat	 $743,000
+Kevin Labanc	 $743,000
+Erik Karlsson    $7,000,000
+Oliver Ekman-Larsson $6,500,000
+John Klingberg   $3,500,000
+Will Butcher	 $925,000
+Esa Lindell      $2,200,000
+Ryan Pulock      $832,500
+Shea Theodore	 $832,500
+Victor Mete	 $743,000
+Corey Crawford   $6,000,000
+Scott Darling	 $4,750,000
+Luke Kunin
+Total	$84,161,000
+
+backstore:
+Nugent-Hopkins
+Anders Lee
+Robbi Fabbri
+Marc-Andre Fleury
+Jacob Chychrun
+Evgeni Schechnikov
+
+
+********************************************
+
+--------------------------------------------
+Yan-Erik
+--------------------------------------------
+B.Marchand, 8M
+F.Forsberg, 6
+S.Monahan, 6.5
+M.Granlund, 5.25
+N.MacKinnon 5.75
+R.Rackell, 3.8
+V.Rask, 4
+N.Ehlers, .833
+M.Tkachuk, .925
+S.Reinhart, .833
+S.Bennett, 1.950
+J.Vrana, .833
+J.Puljujarvi .500
+L.Brown .925
+
+D.Hamilton 5.75
+D.Byfuglien 8
+S.Jones 5.4
+M.Reilly 5
+I.Provorov .925
+C.McAvoy .925
+T.Chabot .925
+
+J.Quick 7
+F.Andersen 5
+
+Back store:
+P.Mrazek
+C.Makar
+E.Tolvanen
+C.Glass
+D.Strome
+C.Coyle.
+J.Carter
+
+85.024M$
+********************************************
+
+--------------------------------------------
+Gilles
+--------------------------------------------
+Stamkos 9,5
+Oshie 8
+Pavelski 6
+Hall 6
+Galchenyuk 4,9
+Bozak 4
+Backlund 3,575
+Andrighetto 1,250
+Keller 0,900
+Jost 0,925
+Boeser 0,925
+Patrick 0,925
+Barzal 0,925
+
+Faulk 5,5
+Barrie 5,250
+Brodie 4,838
+Zaitsev 4,5
+Muzzin 4,1
+Severson 2,5
+
+Holtby 7
+Gibson 2,1
+Raanta 1
+
+Total= 84,613$
+
+Backstore:
+
+1-Kessel
+2-Parayko
+3-Meier
+4-Connor
+5-Mittelstadt
+6-Liljigren
+7-Gillies
+********************************************
+
+--------------------------------------------
+Sylvain
+--------------------------------------------
+-Radulov 8M
+-Anisimov 5
+-Getzlaf 9.025
+-C.Perry 10
+-A.Wennberg 3.5
+--Gallagher 2.75
+-L.Couture 6
+-Guentzel .743
+-C.Lazar .850
+-D.Jaskin 1
+-Burakovski 2.750
+-DalColle .5
+-Nickushkin .5
+
+-Dumba 2.75
+-Pietrangelo 7
+-N.Holden 1.8
+-V.Dunn .743
+-S.Zborovsky .5
+-A.Fox .5
+
+-C.Schneider 6
+-D.Dubnyk 5
+
+BACK STORE
+
+-J.Williams
+-P.Bergeron
+-D.Orlov
+-Zadorov
+-X.Ouellet
+-I Shesterkin
+-J.Valimaki
+
+********************************************
+
+--------------------------------------------
+Jimmy
+--------------------------------------------
+1-Kucherov 4.5m
+2-Draisaitl 9m
+3-Gaudreau 6.75m
+4-Eberle 6m
+5-Turris 4m
+6-Duchesne 6m
+7-Kreider 5m
+9-Domi 0.83m
+10-Rattanen 0.93m
+11-Konecny 0.93m
+12-Buchnevich 0.93m
+13-Dvorak 0.89m
+14-A.Nylander 0.93m
+
+D
+1-Doughty 7.6m
+2-Krug 5.5m
+3-Mcdonaugh 5.1m
+4-Werenski 0.93m
+5-Trouba 3.5m
+6-Green 6m
+
+G
+1-Bishop 7m
+2-Lehner 4m
+3-Sarros 0.74m
+
+Backstore
+X-Luongo
+X-Vatanen
+X-McLeod
+X-Heiskanen
+x- Vilardi
+X-Kaprizov
+x - J.T Mille
+********************************************
+
+--------------------------------------------
+Johnny
+--------------------------------------------
+Sidney Crosby 10,9
+John Tavares 6
+Mika Zibanejad 6
+tomas tatar 6
+Brock Nelson 3,5
+Tanner Pearson 3,5
+Elias Lindholm 2,9
+Ryan Strome 3
+Oliver Bjorkstrand 0,7
+nico hischier 0,925
+patrick maroon 2,1
+frank vatrano 0,843
+sven baertschi 2
+zacha 0,925
+devin shore 0,925
+
+Kris Letang 7,25
+Gostisbehere, Shayne 6
+Rasmus Ristolainen 5,4
+Noah Hanifin 0,925
+brandon montour 0,925
+bandon carlo 0,818
+
+Semeyon Varlamov 5,75
+mike smityh 6
+Jacob Markstrom 3,4
+86,661
+
+backstore:
+Calvin Pickard 0
+Ryan Ellis 0
+Kyle Palmieri 0
+owen tippet 0
+Joonas Donskoi 0
+
+********************************************
+
+--------------------------------------------
+Mike
+--------------------------------------------
+Giroux 9.0
+Tarasenko 7.0
+Voracek 10.0
+Barkov 5.25
+Schwartz 5.5
+Zucker 2.0
+Pastarnak 8.0
+Vesey 0.925
+Dadonov 4.650
+Bjork .500
+Marshesault .750
+Spooner 2.83
+White .500
+Carlson 4.0
+Fowler 4.0
+Klefbom 3.50
+Fleury .500
+Juolevi .500
+Hedd .500
+Wallmand .500
+Price 7.0
+Lundqvist 9.0
+86.405 Millions
+
+Backstore:
+Silversberg
+Myers
+Petterson
+Rasmussen
+Foligno
+Anderson
+Samsonov
+
+********************************************
+
+--------------------------------------------
+Jean-Seb
+--------------------------------------------
+Seguin 6m
+Sheifele 6.75m
+Panarin 6m
+Simmonds 4.75m
+Zucarello 4.5m
+Huberdeau 6.2m
+Van Riemsdyk 5m
+Marleau 8.5
+Neal 5m
+Steel 0.5m
+Yamamoto 0.925m
+Kempe 0.925m
+
+Hedman 8m
+Keith 5m
+Ekholms 3.5m
+Skjei 0.925m
+Slavin 0.792m
+Stecher 0.925m
+Honka 0.833m
+Bowey 0.5m
+
+Alen 3.85m
+Rinne 7m
+
+Backstore
+Benn
+Johanson
+Tuch
+Jener
+Thompson
+Forsbaca Karlson
+Okposo
+
+********************************************
+
+--------------------------------------------
+David
+--------------------------------------------
+Masse totale: 86.507M$
+
+Attaquants:(49.274M$)
+1-Patrick Kane 13.8M$
+2-Connor McDavid 0.925M$
+3-Ryan Hartman 0.833M$
+4-Brayden Schenn 5.0M$
+5-Auston Matthews 0.925M$
+6-Mark Stone 4.5M$
+7-Anthony Mantha 0.833M$
+8-Dylan Larkin 0.925M$
+9-Bo Horvat 6.5M$
+10-William Nylander 0.833M$
+11-Mitchell Marner 0.925M$
+12-Jeff Skinner 6.0M$
+13-Cam Atkinson 4.5M$
+14-Artturi Lehkonen 0.925M$
+15-Anthony Beauvillier 0.925M$
+16-Pierre-Luc Dubois 0.925M$
+
+Défenseurs:(30.083M$)
+
+1-Kevin Shattenkirk 8.0M$
+2-Justin Schultz 5.5M$
+3-Mark Giordano 6.75M$
+4-Aaron Ekblad 9.0M$
+5-Darnell Nurse 0.833M$
+
+
+Gardiens:(7.15M$)
+1-Cam Talbot 4.15M$
+2-Martin Jones 3.00M$
+
+Backstore:
+
+1-Tomas Hertl 3.2M$
+2-Shea Weber 12.0M$
+3-Tuukka Rask 7.5M$
+4-Ben Hutton 2.8M$
+5-Anthony De Angelo 0.833M$
+6-Thatcher Demko 0.500M$
+********************************************
+
+--------------------------------------------
+Benoit
+--------------------------------------------
+1-paccioretty 5,0 millions
+2-Laine 0’925 millions
+3-Johanssen 8,0 millions
+4-Drouin 6,5 millions
+5-Aho 0’925 millions
+6-Teravainen 2,860 millions
+7-kadri 5,0 millions
+8-Fiala 0’833 millions
+9-Milano 0’833 millions 10-Ho-sang 0’833 millions
+11-Joel Ericksson EK 0’925 millions
+12-Christian Fisher 0’818 millions
+13-Sprong 0’743 millions
+14-Subban 11,00 millions
+15-Leddy 5,0 millions
+16-Spurgeon 5,5 millions
+17-Morreyssey 0’833 millions
+18-Samuel Girard 0’743 millions
+19-Sergachev 0’925 millions
+20-Derrick Pouliot 0’743 millions
+21- Bobrovsky 6,5 millions
+22-Hellebuyck 2,250 millions
+
+Backstore
+1-Craig Andersson
+2-Tyler Myers
+3-Tyler Toffoli
+4-Tyler Johnson
+5-Nino Niedderreiter
+6-Nick Ritchie
+7-Brendan Perlini
+Masse Salariales
+67’689’000 millions 
+********************************************
+
+--------------------------------------------
+Harry
+--------------------------------------------
+Alexander Ovechkin
+Nicklas Backstrom
+Mike Hoffman
+Ondrej Palat
+Vincent Trochek
+Viktor Arvidsson
+Eric Staal
+Derick Brassard
+Conor Sheary
+Jaromir Jagr
+Jake Debrusk
+Filip Chytil
+Alexander Kerfoot
+Scott Laughton
+Nick Schmaltz
+Martin Frk
+
+Brent Burns
+Roman Josi
+Jake Gardiner
+Michael Matheson
+
+Matt Murray
+Andrei Vasilevskiy
+
+Backstore (7):
+Bobby Ryan
+Kevin Hayes
+Martin Necas
+Julien Gauthier
+Travis Sanheim
+Ville Pokka
+Jake Bean
+
+Masse salariale : 81.375 M $
+********************************************
